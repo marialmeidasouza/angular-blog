@@ -5,8 +5,9 @@
     flex-direction: row;
 }
 
-.image_small_card{
+.image_small_card img {
     width: 200px;
+    height: 180px;
     margin: 10px;
 }
 
