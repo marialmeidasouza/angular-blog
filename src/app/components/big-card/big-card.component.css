@@ -1,6 +1,6 @@
 .conteiner_big_card{
     width: 400px;
-    height: 400px;
+    height: 700px;
     display: flex;
     flex-direction: column;
     align-items: center; 
@@ -17,9 +17,12 @@
     font-size: 12px;
     color: lightgray;
     margin: 10px;
+    margin-bottom: 20ph;
 }
 
 .image_big_card img{
     width: 100%;
     min-width: 350px;
+    height: auto;
+    
 }

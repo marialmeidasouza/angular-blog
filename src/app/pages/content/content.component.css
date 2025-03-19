@@ -1,0 +1,31 @@
+.container_content{
+    border: solid white;
+    width: 98%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+    margin-top: 15px;
+}
+
+.content_cover img{
+    width: 400px;
+    min-width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    border:solid wheat;
+    margin:10px;
+}
+.content_description p{
+    color:lightgrey;
+    margin:10px;
+    text-align: center;
+}
+
+.content_title > h1{
+    margin-bottom: 10px;
+    text-align: center;
+}

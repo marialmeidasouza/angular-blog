@@ -1,0 +1,20 @@
+.footer_container{
+    color:white;
+    text-align: center;
+    margin-top: auto;
+}
+
+.footer_container > p{
+    margin-top: 0.7%;
+    margin-bottom: 0.7%;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_container hr{
+    margin-top: 0.2%;
+    margin-bottom: 0.2%;
+}
